@@ -1,0 +1,3 @@
+Runner.prototype.gameOver = function(){
+    
+}click enter
